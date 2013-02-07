@@ -1,9 +1,8 @@
-﻿Mapa Connect
-============
+﻿# Mapa Connect
 
-Changelog
+## Changelog
 
-07 de Fevereiro de 2013:
+### 07 de Fevereiro de 2013:
 
 Mapa
 * adicionado caixas próximo a entrada lateral
@@ -23,7 +22,7 @@ Sala do Suporte
 * aumentado o tamanho da janela
 
 
-06 de Fevereiro de 2013:
+### 06 de Fevereiro de 2013:
 
 * Calçada
 * Estacionamento
