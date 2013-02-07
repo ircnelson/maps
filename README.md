@@ -1,22 +1,21 @@
-Mapa Connect
+ï»¿Mapa Connect
 ============
 
-============
 Changelog
-============
-Última versão 06 de Fevereiro de 2013
 
-- Calçada
+Ãšltima versÃ£o 06 de Fevereiro de 2013
+
+- CalÃ§ada
 - Estacionamento
-- Sala de Recepção
+- Sala de RecepÃ§Ã£o
 - Sala de Desenvolvimento
 - Sala do Suporte
-- Sala de Reunião
+- Sala de ReuniÃ£o
 - Sala do Administrativo
 - Banheiro Feminino
 - Banheiro Masculino
 - Banheiro da Sala do Suporte
-- Banheiro da Recepção
+- Banheiro da RecepÃ§Ã£o
 - Banheiro Seu Barbosa
 - Cozinha
-- Área dos fundos
+- Ãrea dos fundos
