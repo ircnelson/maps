@@ -2,6 +2,14 @@
 
 ## Changelog
 
+### 08 de Fevereiro de 2013:
+
+Mapa
+* adicionado cerca elétrica
+
+Fix
+* a grade não está mais interferindo na grama
+
 ### 07 de Fevereiro de 2013:
 
 Mapa
