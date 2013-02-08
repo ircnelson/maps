@@ -1,5 +1,9 @@
 ﻿# Mapa Connect
 
+Download do arquivo WAD, necessário para rodar o mapa.
+
+[https://dl.dropbox.com/u/13464571/wad/all_cstrike.wad](https://dl.dropbox.com/u/13464571/wad/all_cstrike.wad)
+
 ## Changelog
 
 ### 08 de Fevereiro de 2013:
